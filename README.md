@@ -1,6 +1,5 @@
 # mi-primer-blog-
-un blog increible del cuso de git y github de platzi
-# mi-primer-blog-
+
 un blog increible del cuso de Git y Github de platzi de platzi
 
 >el curos de Git y Github de platzi donde te enseñaran todo lo necesario para que seas un experto 
