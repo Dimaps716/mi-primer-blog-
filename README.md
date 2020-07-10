@@ -1,17 +1,16 @@
 # mi-primer-blog-
 
-un blog increible del cuso de Git y Github de platzi de platzi
+un blog increible del curso de Git y Github de platzi 
 
 >el curos de Git y Github de platzi donde te enseñaran todo lo necesario para que seas un experto 
 
-## En esta curo vemos de todo
+## En esta curso vemos de todo
 * todo los camandos de Git 
-* El flujo de trabajar en Github
+* El flujo de trabajo en Github
 * el verdadero amor por las buenas practicas
 * Trucos muy locos 
-* es solo una prueva 
-* probando 
-* es to es solo un ejemplo
+* es solo una prueva  
+* esto es solo un ejemplo
 * lo mejor de lo mejor
 este reabme.md es creado por  **DIMA** 
 
